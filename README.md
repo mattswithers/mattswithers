@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mattswithers
-- 🌱 I’m currently learning Python for data science.
+- 🌱 I’m currently learning Python and SQL for data science / data analysis.
 
 
 <!---
